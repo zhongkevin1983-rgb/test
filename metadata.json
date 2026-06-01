@@ -1,0 +1,6 @@
+{
+  "name": "法拉利F1赛车展示",
+  "description": "严格按照法拉利官方经典美学设计、布局与色彩搭配打造的历年单座F1赛车及引擎声浪互动展示网站。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
